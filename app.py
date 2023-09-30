@@ -1,2 +1,1 @@
-print("Chambia234")
-print("Chambia2345")
+print("Chambias")
